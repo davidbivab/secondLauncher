@@ -1,0 +1,16 @@
+<RCC>
+  <qresource prefix="circles">
+    <file>rec/scond_circle.png</file>
+    <file>rec/first_circle.png</file>
+  </qresource>
+  <qresource prefix="back">
+    <file>rec/launchBack.jpg</file>
+  </qresource>
+  <qresource prefix="icons">
+    <file>rec/discord.png</file>
+    <file>rec/exit.png</file>
+    <file>rec/git.png</file>
+    <file>rec/telega.png</file>
+    <file>rec/you_tube.png</file>
+  </qresource>
+</RCC>
